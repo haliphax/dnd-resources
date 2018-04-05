@@ -13,6 +13,10 @@ D&amp;D 5th Edition Resources and Tools
 - [TokenStamp 2 Token Generator](http://rolladvantage.com/tokenstamp/)
 - [Goblinist Random Encounter Generator](http://tools.goblinist.com/5enc)
 
+## Maps
+
+- [Polygonal Map Generator](https://www.redblobgames.com/maps/mapgen2/)
+
 ## (Down)Time
 
 - [Aglet Timekeeper](http://aglet.io/tools/timekeeper/)
