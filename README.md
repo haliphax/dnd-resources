@@ -16,6 +16,7 @@ D&amp;D 5th Edition Resources and Tools
 ## Maps
 
 - [Polygonal Map Generator](https://www.redblobgames.com/maps/mapgen2/)
+- [Fanasty Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - For world maps
 
 ## (Down)Time
 
