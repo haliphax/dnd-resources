@@ -13,6 +13,7 @@ D&amp;D 5th Edition Resources and Tools
 - [TokenStamp 2 Token Generator](http://rolladvantage.com/tokenstamp/)
 - [Goblinist Random Encounter Generator](http://tools.goblinist.com/5enc)
 - [Quick Monster CR Calculator](https://1-dot-encounter-planner.appspot.com/quick-monster-stats.html)
+- [Encounter Calculator](http://dhmholley.co.uk/encounter-calculator-5th/) - Useful for determining XP rewards
 
 ## Maps
 
