@@ -23,6 +23,7 @@ D&amp;D 5th Edition Resources and Tools
 - [Quick Monster CR Calculator](https://1-dot-encounter-planner.appspot.com/quick-monster-stats.html)
 - [Encounter Calculator](http://dhmholley.co.uk/encounter-calculator-5th/) - Useful for determining XP rewards
 - [The Monsters Know What They're Doing](http://themonstersknow.com/) - Ready-made tactics for monsters
+- [Ambitious NPC Generator](https://perchance.org/ambitiousnpcgenerator) - For non-combatant NPCs
 
 ## Maps
 
